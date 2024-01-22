@@ -1,5 +1,5 @@
 ---
-title: "my_part"
+title: "Summary"
 output:
   word_document: default
   html_document:
